@@ -98,6 +98,19 @@ export default function Home() {
                 See How It Works
               </Button>
             </Link>
+            <Link
+              href="https://pump.fun/coin/smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button size="lg" className="glow-pink">
+                Buy $RIONA
+              </Button>
+            </Link>
+          </div>
+
+          <div className="mt-6 text-sm text-[#A0A0B0]">
+            CA: smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump
           </div>
 
           {/* Stats */}
