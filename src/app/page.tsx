@@ -99,7 +99,8 @@ export default function Home() {
               </Button>
             </Link>
             <Link
-              href="https://pump.fun/coin/smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump"
+            href={"#"}
+            // href="https://pump.fun/coin/smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -109,9 +110,9 @@ export default function Home() {
             </Link>
           </div>
 
-          <div className="mt-6 text-sm text-[#A0A0B0]">
+          {/* <div className="mt-6 text-sm text-[#A0A0B0]">
             CA: smuCA77z3nkWKH7CUP7FVVDi5AnDoQY5pXEqksmpump
-          </div>
+          </div> */}
 
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-16">
